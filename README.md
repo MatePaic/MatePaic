@@ -7,7 +7,7 @@ Software Engineer
 Full-stack software engineer experienced in web development. Currently learning microservices arhitecture with .NET, Next.js and RabbitMQ.
 
 * 🌍  I'm based in Croatia
-* 🖥️  See my portfolio at [Mate Paić Portfolio](http://https://matepaic.github.io/)
+* 🖥️  See my portfolio at [Mate Paić Portfolio](https://matepaic.github.io/)
 * ✉️  You can contact me at [mate.paic1997@gmail.com](mailto:mate.paic1997@gmail.com)
 * 🚀  I'm currently working on [Car auction application](http://https://github.com/MatePaic/Car-auction)
 * 🧠  I'm learning Microservice(.NET, Next.js, RabbitMQ) and Docker&Kubernetes
