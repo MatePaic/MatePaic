@@ -10,7 +10,7 @@ Full-stack software engineer experienced in web development. Currently learning 
 * 🖥️  See my portfolio at [Mate Paić Portfolio](https://matepaic.github.io/matepaic_portfolio.github.io/)
 * ✉️  You can contact me at [mate.paic1997@gmail.com](mailto:mate.paic1997@gmail.com)
 * 🚀  I'm currently working on [Car auction application](https://github.com/MatePaic/Car-auction)
-* 🧠  I'm learning Microservice(.NET, Next.js, RabbitMQ)
+* 🧠  I'm learning integrating frontier LLM models to AI powered applications
 * 🤝  I'm open to collaborating on high-quality software solutions
 * ⚡  Always eager to learn and improve
 
